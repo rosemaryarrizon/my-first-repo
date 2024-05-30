@@ -1,0 +1,24 @@
+.navButton {
+    display: inline-block;
+    background-color: grey;
+    padding: 24px;
+    color: white;
+}
+
+nav { 
+    background-color: lightgrey;
+}
+.sidebar {
+    width: 29%;
+    float: left;
+    height: 880px;
+    padding: 16;
+    background-color: blue;
+}
+
+.main {
+    width: 60%;
+    float: left;
+    height: 880px;
+    background-color: pink;
+}
